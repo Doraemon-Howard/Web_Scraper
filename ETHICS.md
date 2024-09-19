@@ -3,7 +3,6 @@
 
 ## ETHICS.md
 
-```markdown
 # Ethical Considerations for Web Scraping
 
 Web scraping can be a powerful tool for data collection and analysis, but it also raises several ethical and legal concerns. Below are some considerations and measures taken in this project to ensure responsible scraping practices.
